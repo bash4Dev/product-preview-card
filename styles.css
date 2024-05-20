@@ -90,7 +90,7 @@ button {
     border-radius: 5px;
     border: none;
 }
-button .text {
+button .add-to-cart {
     font-size: 15px;
     font-weight: 600;
 }
